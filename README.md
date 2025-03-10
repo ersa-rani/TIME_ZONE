@@ -46,4 +46,4 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 This project is licensed under the **MIT License**.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/ersa-rani)
+Made with ❤️ by [ERSA RANI](https://github.com/ersa-rani)
